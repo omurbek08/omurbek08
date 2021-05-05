@@ -1,0 +1,108 @@
+*{
+margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+@font-face{
+    font-family: RobotoR;
+    src: url(../омурбек3/fonts/Roboto-Regular.ttf);
+}
+
+html, body, main{ 
+    height: 100%;
+    font-family: RobotoR;
+}
+.box{
+    height: 100%;
+    width: 100%;
+    background-image: url(../омурбек3/img/img1.jpg);
+    background-position: center;
+    background-size: cover;
+}
+.text{
+    text-align: center;
+    padding-top: 5%;
+}
+.box p{
+    color: rgb(255, 255, 255);
+}
+.text-deep{
+    margin: 15% 0 0 15%;
+}
+.first-line{
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: bold;
+    opacity: 0.8;
+    line-height: 1;
+}
+.second-line{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 64px;
+    letter-spacing: 1px;
+    line-height: 1;
+}
+.gallery{
+    height: 100vh; 
+}
+
+.gallery-contein{
+    width: 60%;
+    margin: auto;
+    
+}
+.text-gallery{
+    display: flex;
+}
+.text-gallery{
+    display: flex;
+    padding: 7% 0 5% 0;
+    justify-content: space-between;
+}
+.text1{
+    font-size: 40px;
+    color: brown;
+}
+.text2{
+   color: brown;
+}
+.ip21{
+    height: auto;
+    width: 60%;
+}
+.ip22{
+    height: auto;
+    width: 100%;
+    padding-top: 0;
+}
+.ip23{
+    height: auto;
+    width: 100%;
+    margin-top: 1%;
+}
+.img-contein{
+    display: flex;
+  
+}
+.img-second{
+    margin-left: 1%;
+}
+.baner{
+    background-image: url(img/img3.jpg);
+    height: 50%;
+    width: 100%;
+    color: #fff;
+    
+    padding: 10% 20% 0 20%;
+}
+.up2{
+    text-align: center;
+    border: 2px solid grey;
+    height: 18%;
+    width: 17%;
+    padding: 2% 0 4% 0;
+    margin: 0 0 3% 35%;
+    color: #fff;
+}
+
