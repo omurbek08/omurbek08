@@ -15,7 +15,7 @@ html, body, main{
 .box{
     height: 100%;
     width: 100%;
-    background-image: url(../омурбек3/img/img1.jpg);
+    background-image: url(../img/img1.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -89,7 +89,7 @@ html, body, main{
     margin-left: 1%;
 }
 .baner{
-    background-image: url(img/img3.jpg);
+    background-image: url(../img/img3.jpg);
     height: 50%;
     width: 100%;
     color: #fff;
